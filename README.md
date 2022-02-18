@@ -1,48 +1,57 @@
-# curriculum-databases-projects-template
+# Mobile-Protfolio
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
+______________
+# Built With <br>
+HTML and CSS <br>
+HTML and CSS linters - stylelint, webhint, lighthouse- <br>
+Visual Studio and GitHub <br>
+GITHub Page <br>
+Figma Template <br>
+_________________
+# Getting Started <br>
+To get a local copy up and running follow these simple example steps.
+
+Prerequisites - <br>
+Vist the git hub page Github Page Link.
+
+Install - <br>
+If not already downloaded, download Visual Studio, atom or any other IDE source code editor It may also help to download GitHub Desktop application
+
+Setup - <br>
+If Github desktop application is insalled in your device you can download the prokect directly to that. Once downloaded GitHub will give you the option to create a clone of the project, this will then allow you to open said project to your IDE. <br>
+
+If you do not have the GitHub desktop application you can download the project as a zip file directly to you computer. when the download is complete extract the folder to a location of your choice. After this you can open you IDE of choice and open the project folder.
 
 
-## Getting Started
+Run tests <br>
+test can me ran locally on your meachine by using the run function on your IDE.
 
-This repository includes files with plain SQL that can be used to recreate a database:
+Deployment <br>
+restrict deployment
+_________________
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+# 👤 Author1 <br>
 
+GitHub: @tasnimulhasan07 <br>
+Twitter: @tasnimulhasan07 <br>
+LinkedIn: tasnimulhasan07 <br>
 
-## Authors
+_________________
 
-👤 **Author1**
+# 🤝 Contributing <br>
+Contributions, issues, and feature requests are welcome! <br>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
+# Show your support <br>
 Give a ⭐️ if you like this project!
+___________________
+# Acknowledgments <br>
+Microverse <br>
+Figma <br>
 
-## Acknowledgments
+_________________
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+# 📝 License <br>
+This project is MIT licensed.

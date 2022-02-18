@@ -216,11 +216,11 @@ section.portfolio-1 {
 .skills-project-1 li {
   display: flex;
   align-items: center;
-  padding: 4px 12px;
-  width: 53px;
+  padding: 0px;
+  width: 70px;
   height: 24px;
   left: 0;
-  top: 0;
+  top: 180px;
   background-color: #ebebff;
   border-radius: 8px;
   color: #6070ff;
