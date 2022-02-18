@@ -147,6 +147,10 @@ section.portfolio-1 {
 
 .project-1 {
   display: flex;
+  display: grid;
+  border: 1px solid #DFE1E6;
+  box-sizing: border-box;
+  border-radius: 16px;
   flex-direction: column;
   padding-left: 10px;
   margin: 12px 0;
@@ -242,6 +246,10 @@ section.portfolio-2 {
 
 .project-2 {
   display: flex;
+  display: grid;
+  border: 1px solid #DFE1E6;
+  box-sizing: border-box;
+  border-radius: 16px;
   flex-direction: column;
   padding-left: 10px;
   margin: 12px 0;
@@ -337,6 +345,10 @@ section.portfolio-3 {
 
 .project-3 {
   display: flex;
+  display: grid;
+  border: 1px solid #DFE1E6;
+  box-sizing: border-box;
+  border-radius: 16px;
   flex-direction: column;
   padding-left: 10px;
   margin: 12px 0;
@@ -428,6 +440,10 @@ section.portfolio-3 {
 
 .project-4 {
   display: flex;
+  display: grid;
+  border: 1px solid #DFE1E6;
+  box-sizing: border-box;
+  border-radius: 16px;
   flex-direction: column;
   padding-left: 10px;
   margin: 12px 0;
@@ -524,6 +540,10 @@ section.about {
 .about {
   padding-top: 120px;
   padding-left: 20px;
+  display: grid;
+  border: 1px solid #DFE1E6;
+  box-sizing: border-box;
+  border-radius: 16px;
 }
 
 .about-me-page {
