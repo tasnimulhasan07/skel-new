@@ -209,15 +209,16 @@ section.portfolio-1 {
   display: flex;
   list-style: none;
   float: left;
-  gap: 30px;
+  gap: 10px;
   flex-direction: row;
 }
 
 .skills-project-1 li {
   display: flex;
+  flex-direction: row;
   align-items: center;
-  padding: 0px;
-  width: 70px;
+  padding: 10px;
+  position: static;
   height: 24px;
   left: 0;
   top: 180px;
