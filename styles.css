@@ -100,6 +100,7 @@ a:hover {
   font-size: 40px;
   line-height: 52px;
   align-items: center;
+  flex-wrap: wrap;
   color: #172b4d;
   font-family: poppins, sans-serif;
   padding: 10px;
@@ -144,7 +145,7 @@ a:hover {
 
 section.portfolio-1 {
   height: auto;
-  width: 330px;
+  min-width: 327px;
 }
 
 .project-1 {
@@ -159,7 +160,12 @@ section.portfolio-1 {
 }
 
 .tonic-img-1 {
-  margin: 2%;
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  display: grid;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .project-name-1 {
@@ -246,7 +252,7 @@ section.portfolio-1 {
 
 section.portfolio-2 {
   height: auto;
-  width: 330px;
+  min-width: 327px;
 }
 
 .project-2 {
@@ -261,7 +267,12 @@ section.portfolio-2 {
 }
 
 .tonic-img-2 {
-  margin: 2%;
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  display: grid;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .project-name-2 {
@@ -346,7 +357,7 @@ section.portfolio-2 {
 
 section.portfolio-3 {
   height: auto;
-  width: 330px;
+  min-width: 327px;
 }
 
 .project-3 {
@@ -361,7 +372,12 @@ section.portfolio-3 {
 }
 
 .tonic-img-3 {
-  margin: 2%;
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  display: grid;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .project-name-3 {
@@ -447,7 +463,7 @@ section.portfolio-3 {
 section.portfolio-4 {
   height: auto;
   margin-bottom: 10px;
-  width: 330px;
+  min-width: 327px;
 }
 
 .project-4 {
@@ -462,7 +478,12 @@ section.portfolio-4 {
 }
 
 .tonic-img-4 {
-  margin: 2%;
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+  display: grid;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .project-name-4 {
@@ -547,7 +568,7 @@ section.portfolio-4 {
 
 section.about {
   height: auto;
-  width: 330px;
+  min-width: 327px;
 }
 
 .about {
@@ -596,7 +617,7 @@ section.about {
 }
 
 .lang {
-  padding-top: 80px;
+  padding-top: 30px;
   font-family: 'poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
