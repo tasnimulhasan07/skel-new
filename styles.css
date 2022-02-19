@@ -1,5 +1,6 @@
 * {
   padding: 0;
+  list-style: none;
 }
 
 .nav-menu-content {
@@ -142,7 +143,8 @@ a:hover {
 }
 
 section.portfolio-1 {
-  height: 718px;
+  height: auto;
+  width: 330px;
 }
 
 .project-1 {
@@ -157,7 +159,7 @@ section.portfolio-1 {
 }
 
 .tonic-img-1 {
-  margin: 10%;
+  margin: 2%;
 }
 
 .project-name-1 {
@@ -167,7 +169,6 @@ section.portfolio-1 {
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
-  padding-bottom: 30px;
 }
 
 .about-project-1 ul {
@@ -219,7 +220,8 @@ section.portfolio-1 {
   align-items: center;
   padding: 10px;
   position: static;
-  height: 24px;
+  height: auto;
+  width: auto;
   left: 0;
   top: 180px;
   background-color: #ebebff;
@@ -239,10 +241,12 @@ section.portfolio-1 {
   height: 50px;
   border-color: #396df2;
   border-radius: 8px;
+  margin-bottom: 20px;
 }
 
 section.portfolio-2 {
-  height: 718px;
+  height: auto;
+  width: 330px;
 }
 
 .project-2 {
@@ -257,7 +261,7 @@ section.portfolio-2 {
 }
 
 .tonic-img-2 {
-  margin: 10%;
+  margin: 2%;
 }
 
 .project-name-2 {
@@ -267,7 +271,6 @@ section.portfolio-2 {
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
-  padding-bottom: 30px;
 }
 
 .about-project-2 ul {
@@ -317,8 +320,8 @@ section.portfolio-2 {
   display: flex;
   align-items: center;
   padding: 4px 12px;
-  width: 53px;
-  height: 24px;
+  width: auto;
+  height: auto;
   left: 0;
   top: 0;
   background-color: #ebebff;
@@ -338,10 +341,12 @@ section.portfolio-2 {
   height: 50px;
   border-color: #396df2;
   border-radius: 8px;
+  margin-bottom: 20px;
 }
 
 section.portfolio-3 {
-  height: 718px;
+  height: auto;
+  width: 330px;
 }
 
 .project-3 {
@@ -356,7 +361,7 @@ section.portfolio-3 {
 }
 
 .tonic-img-3 {
-  margin: 10%;
+  margin: 2%;
 }
 
 .project-name-3 {
@@ -366,7 +371,6 @@ section.portfolio-3 {
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
-  padding-bottom: 30px;
 }
 
 .about-project-3 ul {
@@ -416,8 +420,8 @@ section.portfolio-3 {
   display: flex;
   align-items: center;
   padding: 4px 12px;
-  width: 53px;
-  height: 24px;
+  width: auto;
+  height: auto;
   left: 0;
   top: 0;
   background-color: #ebebff;
@@ -437,6 +441,13 @@ section.portfolio-3 {
   height: 50px;
   border-color: #396df2;
   border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+section.portfolio-4 {
+  height: auto;
+  margin-bottom: 10px;
+  width: 330px;
 }
 
 .project-4 {
@@ -451,7 +462,7 @@ section.portfolio-3 {
 }
 
 .tonic-img-4 {
-  margin: 10%;
+  margin: 2%;
 }
 
 .project-name-4 {
@@ -461,7 +472,6 @@ section.portfolio-3 {
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
-  padding-bottom: 30px;
 }
 
 .about-project-4 ul {
@@ -511,8 +521,8 @@ section.portfolio-3 {
   display: flex;
   align-items: center;
   padding: 4px 12px;
-  width: 53px;
-  height: 24px;
+  width: auto;
+  height: auto;
   left: 0;
   top: 0;
   background-color: #ebebff;
@@ -532,14 +542,15 @@ section.portfolio-3 {
   height: 50px;
   border-color: #396df2;
   border-radius: 8px;
+  margin-bottom: 20px;
 }
 
 section.about {
-  height: 718px;
+  height: auto;
+  width: 330px;
 }
 
 .about {
-  padding-top: 120px;
   padding-left: 20px;
   display: grid;
   border: 1px solid #dfe1e6;
@@ -607,6 +618,8 @@ section.about {
   display: flex;
   background-color: #f7f7f9;
   align-items: center;
+  gap: 10px;
+  text-align: center;
 }
 
 .my-lang li h2 {
@@ -616,6 +629,10 @@ section.about {
   font-weight: 500;
   line-height: 20px;
   font-size: 15px;
+}
+
+.skill {
+  list-style: none;
 }
 
 .frameworks {
