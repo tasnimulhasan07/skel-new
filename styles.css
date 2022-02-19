@@ -161,7 +161,6 @@ section.portfolio-1 {
 
 .tonic-img-1 {
   margin-top: 16px;
-  display: flex;
   justify-content: center;
   display: grid;
   max-width: 100%;
@@ -268,7 +267,6 @@ section.portfolio-2 {
 
 .tonic-img-2 {
   margin-top: 16px;
-  display: flex;
   justify-content: center;
   display: grid;
   max-width: 100%;
@@ -373,7 +371,6 @@ section.portfolio-3 {
 
 .tonic-img-3 {
   margin-top: 16px;
-  display: flex;
   justify-content: center;
   display: grid;
   max-width: 100%;
@@ -479,7 +476,6 @@ section.portfolio-4 {
 
 .tonic-img-4 {
   margin-top: 16px;
-  display: flex;
   justify-content: center;
   display: grid;
   max-width: 100%;
