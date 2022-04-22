@@ -619,7 +619,6 @@ section.about {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  padding-bottom: 40px;
 }
 
 .my-lang {
@@ -653,13 +652,11 @@ section.about {
 }
 
 .frameworks {
-  padding-top: 80px;
   font-family: 'poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  padding-bottom: 40px;
 }
 
 .skills {
